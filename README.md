@@ -1,3 +1,3 @@
-# robots
-Robots
-print("Kirby is top tier")
+# Robots
+
+Y'a rien ici.
