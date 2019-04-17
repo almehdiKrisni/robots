@@ -1,4 +1,4 @@
-Tout est répartit en différents afin de faciliter la navigation.
+Tout est répartit en différents dossiers afin de faciliter la navigation.
 
 Le dossier Code rassemble les Notebook de tout les membres du groupe ainsi que le code de la fonction finale.
 
