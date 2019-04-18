@@ -9,4 +9,4 @@ vous est recommandé d'utiliser également le ficher de Présentation puisque en
 d'exemples n'a pu etre réalisée dans le Notebook. 
 Les sous-parties de la partie 5 sont rangées dans le meme ordre que leurs parties respectives du fichier de Présentation.
 
-Merci et l'ensemble de notre groupe vous souhaite une agréable journée (ou soirée pour les noctures).
+Merci et l'ensemble de notre groupe vous souhaite une agréable journée (ou soirée pour les nocturnes).
